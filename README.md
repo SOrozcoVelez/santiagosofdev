@@ -4,29 +4,13 @@ Me enfoco en construir soluciones backend sencillas con Python y buenas práctic
 
 🛠 Tech Stack
 
-Herramienta
+Herramienta      Nivel      Comentario
 
-Nivel
+  Python         Básico      Manejo de listas, ciclos, funciones
 
-Comentario
+Git & GitHub     Intermedio  Flujo branch → commit → pull request
 
-Python
-
-Básico
-
-Manejo de listas, ciclos, funciones
-
-Git & GitHub
-
-Intermedio
-
-Flujo branch → commit → pull request
-
-SQLite / SQL básico
-
-Básico
-
-CRUD y consultas simples
+SQLite / SQL      Básico     CRUD y consultas simples
 
 🌱 Actualmente aprendiendo
 
@@ -38,19 +22,13 @@ Diseño de bases de datos relacionales.
 
 🚀 Proyectos Destacados
 
-Proyecto Descripción
+Proyecto               Descripción             Tecnologia
 
-calculadora-python
+calculadora-python    Calculadora CLI
+                      con operaciones básicas.  Python
 
-Calculadora CLI con operaciones básicas.
-
-Python
-
-listas-ejercicios
-
-Colección de ejercicios sobre listas y bucles.
-
-Python
+listas-ejercicios     Colección de ejercicios 
+                      sobre listas y bucles.     Python
 
 📈 Estadísticas
 
